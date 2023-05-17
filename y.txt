@@ -1,6 +1,3 @@
 sss
 
 next line
-1
-2
-3
